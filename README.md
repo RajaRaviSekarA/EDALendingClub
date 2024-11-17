@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club case study for MS - AI/ML
 > Outline a brief description of your project.
 
 
