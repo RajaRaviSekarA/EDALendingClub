@@ -18,10 +18,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The EDA analysis targets
+- Avoid Business loss by lending to applicants who likely to repay the loan
+- Avoid Financial Loss by rejecting applicants who are likely to default
+  - This case study is purely based on the Loan dataset that was analyzed for the years 2007 - 2011 by Lending Club
+  - The detailed analysis and the Python Jupyter Notebook ipynb is added to the repository
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -38,7 +39,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-I would like to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT, Bangalore, and LJMU, UK.
+I would like to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK.
 - This project was inspired by all the Professors who trained us during the EDA module
   - Chandrashekar Ramanathan - Professor, IIT-B
   - Anand S - CEO - Gramener
