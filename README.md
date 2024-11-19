@@ -1,6 +1,5 @@
 # Lending Club case study for MS - AI/ML
-> Outline a brief description of your project.
-
+> This is a case study for Exploratory Data Analysis for Lending Club - lending various loans to urban customers.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,11 +10,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+- Analyse the Lending applicants data of Lending Club from 2007 to 2011
+- Minimise the risk of losing money while lending to urban customers
+- Avoid Financial loss by not lending to applicants likely to default
+- Identify the Patterns for applicants likely to default
+  
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -28,17 +27,21 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Exploratory Data Analysis (EDA) techniques
+- Python Programming
+- Panda for Data Wrangling and Data manipulation purposes
+- NumPy objects to create arrays/metrics to apply DL/ML models
+- Matplotlib to create a range of plots and visualization
+- Seaborn to create visually appealing statistical graphics
+- All the versions are latest as of November 2024
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+I would like to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT, Bangalore, and LJMU, UK.
+- This project was inspired by all the Professors who trained us during the EDA module
+  - Chandrashekar Ramanathan - Professor, IIT-B
+  - Anand S - CEO - Gramener
 
 
 ## Contact
