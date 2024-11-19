@@ -40,7 +40,7 @@ The EDA analysis targets
 
 ## Acknowledgements
 I would like to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK.
-- This project was inspired by all the Professors who trained us during the EDA module
+- This project was inspired by all the Professors who trained us during the EDA module, namely...
   - Chandrashekar Ramanathan - Professor, IIT-B
   - Anand S - CEO - Gramener
 
