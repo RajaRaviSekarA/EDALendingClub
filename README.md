@@ -46,7 +46,7 @@ I would like to credit upGrad for the Master of Science in Machine Learning and 
 
 
 ## Contact
-Created by [@rajaravisekara] - feel free to contact me!
+Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
 
 
 <!-- Optional -->
