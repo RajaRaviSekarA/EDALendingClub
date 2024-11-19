@@ -22,7 +22,7 @@ The EDA analysis targets
 - Avoid Business loss by lending to applicants who likely to repay the loan
 - Avoid Financial Loss by rejecting applicants who are likely to default
   - This case study is purely based on the Loan dataset that was analyzed for the years 2007 - 2011 by Lending Club
-  - The detailed analysis and the Python Jupyter Notebook ipynb is added to the repository
+  - The detailed analysis and the Python Jupyter Notebook ipynb added to the repository
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
