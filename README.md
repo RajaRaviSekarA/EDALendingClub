@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -16,16 +17,6 @@
 - Identify the Patterns for applicants likely to default
   
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-The EDA analysis targets
-- Avoid Business loss by lending to applicants who are likely to repay the loan
-- Avoid Financial Loss by rejecting applicants who are likely to default
-  - This case study is purely based on the Loan dataset that was analyzed for the years 2007 - 2011 by Lending Club
-  - The detailed analysis and the Python Jupyter Notebook ipynb have been added to the repository
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Exploratory Data Analysis (EDA) techniques
@@ -38,16 +29,23 @@ The EDA analysis targets
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Conclusions
+The EDA analysis targets
+- Avoid Business loss by lending to applicants who are likely to repay the loan
+- Avoid Financial Loss by rejecting applicants who are likely to default
+  - This case study is purely based on the Loan dataset that was analyzed for the years 2007 - 2011 by Lending Club
+  - The detailed analysis and the Python Jupyter Notebook ipynb have been added to the repository
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 ## Acknowledgements
 I would like to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore and LJMU, UK.
 - This project was inspired by all the Professors who trained us during the EDA module, namely...
   - Chandrashekar Ramanathan - Professor, IIIT-B
   - Anand S - CEO - Gramener
 
-
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
-
 
 <!-- Optional -->
 <!-- ## License -->
